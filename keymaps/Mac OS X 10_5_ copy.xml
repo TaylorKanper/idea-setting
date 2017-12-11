@@ -1,0 +1,8 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
+  <action id="TypeHierarchy.Class">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
+</keymap>

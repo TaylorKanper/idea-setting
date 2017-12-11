@@ -1,0 +1,12 @@
+<application>
+  <component name="TranslationSettings">
+    <option name="appId" value="58663f21e25ed60d" />
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
+    <option name="langFrom" value="AUTO" />
+    <option name="langTo" value="AUTO" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Apple Color Emoji" />
+    <option name="primaryFontFamily" value="Apple Color Emoji" />
+    <option name="privateKeyConfigured" value="true" />
+  </component>
+</application>

@@ -1,0 +1,56 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="诊断" />
+      <item value="仪表盘" />
+      <item value="背景" />
+      <item value="差值" />
+      <item value="命令" />
+      <item value="callback object to execute" />
+      <item value="whether to pipeline or not the connection for the execution" />
+      <item value="whether to enforce exposure of the native Redis Connection to callback code" />
+      <item value="expose Connection" />
+      <item value="站" />
+      <item value="基站" />
+      <item value="batch" />
+      <item value="command" />
+      <item value="匹配" />
+      <item value="response" />
+      <item value="经纬度" />
+      <item value="分析" />
+      <item value="remainder" />
+      <item value="余数" />
+      <item value="partition" />
+      <item value="分割" />
+      <item value="ticket" />
+      <item value="话单" />
+      <item value="analysis" />
+      <item value="解析" />
+      <item value="解析话单" />
+      <item value="解压" />
+      <item value="receive" />
+      <item value="接受" />
+      <item value="download" />
+      <item value="指纹" />
+      <item value="library" />
+      <item value="库" />
+      <item value="simple Captcha" />
+      <item value="补全位数" />
+      <item value="梨" />
+      <item value="pier" />
+      <item value="Attempts to stop all actively executing tasks" />
+      <item value="Executor Service" />
+      <item value="Executor" />
+      <item value="TIMED WAITING" />
+      <item value="Thread state for a thread blocked waiting for a monitor lock ." />
+      <item value="Thread state for a runnable thread ." />
+      <item value="Thread state for a thread which has not yet started" />
+      <item value="TERMINATED" />
+      <item value="Period" />
+      <item value="适合的" />
+      <item value="Raw" />
+      <item value="vendor" />
+      <item value="vender" />
+    </histories>
+  </component>
+</application>
