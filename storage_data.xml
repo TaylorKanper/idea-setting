@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="故障" />
       <item value="诊断" />
       <item value="仪表盘" />
       <item value="背景" />
@@ -50,7 +51,6 @@
       <item value="适合的" />
       <item value="Raw" />
       <item value="vendor" />
-      <item value="vender" />
     </histories>
   </component>
 </application>
