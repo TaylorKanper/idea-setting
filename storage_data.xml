@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class makes no guarantees as to the order of the map ;" />
+      <item value="unsynchronized" />
       <item value="故障" />
       <item value="诊断" />
       <item value="仪表盘" />
@@ -49,8 +51,6 @@
       <item value="TERMINATED" />
       <item value="Period" />
       <item value="适合的" />
-      <item value="Raw" />
-      <item value="vendor" />
     </histories>
   </component>
 </application>
