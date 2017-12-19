@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wireless" />
       <item value="This class makes no guarantees as to the order of the map ;" />
       <item value="unsynchronized" />
       <item value="故障" />
@@ -50,7 +51,6 @@
       <item value="Thread state for a thread which has not yet started" />
       <item value="TERMINATED" />
       <item value="Period" />
-      <item value="适合的" />
     </histories>
   </component>
 </application>
