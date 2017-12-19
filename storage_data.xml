@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="干扰" />
       <item value="优良率" />
       <item value="分布" />
       <item value="terminal" />
@@ -50,7 +51,6 @@
       <item value="Executor Service" />
       <item value="Executor" />
       <item value="TIMED WAITING" />
-      <item value="Thread state for a thread blocked waiting for a monitor lock ." />
     </histories>
   </component>
 </application>
