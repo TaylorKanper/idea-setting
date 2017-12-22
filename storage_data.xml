@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="动态" />
       <item value="干扰" />
       <item value="优良率" />
       <item value="分布" />
@@ -50,7 +51,6 @@
       <item value="Attempts to stop all actively executing tasks" />
       <item value="Executor Service" />
       <item value="Executor" />
-      <item value="TIMED WAITING" />
     </histories>
   </component>
 </application>
