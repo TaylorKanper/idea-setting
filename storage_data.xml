@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="road" />
       <item value="总体" />
       <item value="隐藏" />
       <item value="动态" />
@@ -50,7 +51,6 @@
       <item value="补全位数" />
       <item value="梨" />
       <item value="pier" />
-      <item value="Attempts to stop all actively executing tasks" />
     </histories>
   </component>
 </application>
