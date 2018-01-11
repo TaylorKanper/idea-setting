@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="权重" />
       <item value="弹出框" />
       <item value="road" />
       <item value="总体" />
@@ -50,7 +51,6 @@
       <item value="库" />
       <item value="simple Captcha" />
       <item value="补全位数" />
-      <item value="梨" />
     </histories>
   </component>
 </application>
