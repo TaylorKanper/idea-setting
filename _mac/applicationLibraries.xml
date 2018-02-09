@@ -1,5 +1,20 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/bootstrap" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/highcharts" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 3.6 interpreter library">
       <CLASSES />
       <JAVADOC />
