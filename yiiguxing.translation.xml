@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="扩大" />
       <item value="Construct an empty workbook and specify the window for row access" />
       <item value="方位角" />
       <item value="Sector map" />
