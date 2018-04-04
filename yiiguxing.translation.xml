@@ -30,4 +30,7 @@
       <item value="millis" />
     </histories>
   </component>
+  <component name="Settings">
+    <option name="overrideFont" value="true" />
+  </component>
 </application>
