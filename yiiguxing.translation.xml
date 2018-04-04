@@ -3,6 +3,14 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="true if the server should consider messages * acknowledged once delivered; false if the server should expect * explicit acknowledgements" />
+      <item value="Start a non-nolocal, non-exclusive consumer, with" />
+      <item value="other properties (construction arguments) for the queue" />
+      <item value="true if we are declaring an autodelete queue (server will delete it when no longer in use)" />
+      <item value="true if we are declaring a durable queue (the queue will survive a server restart)" />
+      <item value="true if we are declaring an exclusive queue (restricted to this connection)" />
+      <item value="durable" />
+      <item value="Declare" />
       <item value="perform" />
       <item value="permanent" />
       <item value="常驻" />
