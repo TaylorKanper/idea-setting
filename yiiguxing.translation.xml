@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="true to acknowledge all messages up to and * including the supplied delivery tag; false to acknowledge just * the supplied delivery tag." />
       <item value="delivery Mode" />
       <item value="PERSISTENT" />
       <item value="true if the server should consider messages * acknowledged once delivered; false if the server should expect * explicit acknowledgements" />
