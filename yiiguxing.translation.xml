@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Detected" />
       <item value="deliver" />
       <item value="prefetch Count" />
       <item value="true if we are declaring a durable queue" />
