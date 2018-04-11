@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="The following plugins are incompatible with the current IDE build: .ignore" />
       <item value="Managed memory leak detected" />
       <item value="Detected" />
       <item value="deliver" />
