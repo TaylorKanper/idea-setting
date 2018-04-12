@@ -78,7 +78,7 @@
       <option name="schema-control" value="AUTOMATIC" />
       <vm-options>-Dsun.security.krb5.debug=true -Djavax.security.auth.useSubjectCredsOnly=false</vm-options>
       <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hive/hive-jdbc-uber-2.6.1.0-129.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hive/hive-jdbc-uber-2.6.3.0-235.jar</url>
       </library>
     </driver>
     <driver id="db2.jtopen">
