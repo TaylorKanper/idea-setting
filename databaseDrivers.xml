@@ -50,7 +50,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" version="42.1.1" />
+      <artifact name="PostgreSQL" use="true" version="42.2.1" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
@@ -70,7 +70,7 @@
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
     </driver>
-    <driver id="java.sql.Driver" name="hive Driver" driver-class="org.apache.hive.jdbc.HiveDriver">
+    <driver id="java.sql.Driver" name="hive Driver" dialect="GenericSQL" driver-class="org.apache.hive.jdbc.HiveDriver">
       <url-template name="default" template="jdbc:hive2://{host}:{port}/{database}[;&lt;;,{:identifier}={:param}&gt;]" />
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
