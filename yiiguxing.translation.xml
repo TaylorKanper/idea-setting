@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="If a partition key is provided it will override the key for the purpose of partitioning but will not be stored." />
       <item value="场景" />
       <item value="One instance of this class will be instantiated per JVM and it will not be called concurrently." />
       <item value="The following plugins are incompatible with the current IDE build: .ignore" />
