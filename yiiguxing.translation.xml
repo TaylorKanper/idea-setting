@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="场景" />
       <item value="One instance of this class will be instantiated per JVM and it will not be called concurrently." />
       <item value="The following plugins are incompatible with the current IDE build: .ignore" />
       <item value="Managed memory leak detected" />
