@@ -91,6 +91,61 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
     </driver>
+    <driver id="a2651cc4-5162-48f7-9646-b5e19db14f29" name="impala" driver-class="com.cloudera.impala.jdbc41.Driver">
+      <remarks>impala方式连接</remarks>
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/commons-codec-1.3.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/commons-logging-1.1.1.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/hive_metastore.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/hive_service.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/httpclient-4.1.3.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/httpcore-4.1.3.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/ImpalaJDBC4.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/ImpalaJDBC41.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/libfb303-0.9.0.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/libthrift-0.9.0.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/log4j-1.2.14.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/ql.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/slf4j-api-1.5.11.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/slf4j-log4j12-1.5.11.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/TCLIServiceClient.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/zookeeper-3.4.6.jar</url>
+      </library>
+    </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
