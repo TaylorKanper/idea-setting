@@ -145,6 +145,51 @@
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/impala/zookeeper-3.4.6.jar</url>
       </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/commons-codec-1.3.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/commons-logging-1.1.1.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/hive_metastore.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/hive_service.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/httpclient-4.1.3.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/httpcore-4.1.3.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/ImpalaJDBC41.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/libfb303-0.9.0.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/libthrift-0.9.0.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/log4j-1.2.14.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/ql.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/slf4j-api-1.5.11.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/slf4j-log4j12-1.5.11.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/TCLIServiceClient.jar</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/ClouderaImpalaJDBC_2.5.43.1063/ClouderaImpalaJDBC41_2.5.43/zookeeper-3.4.6.jar</url>
+      </library>
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
