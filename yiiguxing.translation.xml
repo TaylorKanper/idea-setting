@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合并" />
       <item value="Error creating login context using ticket cache: Unable to obtain Princpal Name for authentication ." />
       <item value="overlapping" />
       <item value="分析" />
@@ -50,7 +51,6 @@
       <item value="Sector map" />
       <item value="层级" />
       <item value="酒店" />
-      <item value="millis" />
     </histories>
   </component>
   <component name="Settings">
