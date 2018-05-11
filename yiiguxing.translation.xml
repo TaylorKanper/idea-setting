@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sample Rate Hertz" />
       <item value="Specifies the input data source format." />
       <item value="合并" />
       <item value="Error creating login context using ticket cache: Unable to obtain Princpal Name for authentication ." />
@@ -50,7 +51,6 @@
       <item value="Construct an empty workbook and specify the window for row access" />
       <item value="方位角" />
       <item value="Sector map" />
-      <item value="层级" />
     </histories>
   </component>
   <component name="Settings">
