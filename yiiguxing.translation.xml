@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the maximum number of elements to include in the * array." />
       <item value="sort" />
       <item value="分类" />
       <item value="Sentiment" />
@@ -50,10 +51,14 @@
       <item value="实时监控" />
       <item value="多个" />
       <item value="大小" />
-      <item value="扩大" />
     </histories>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </google-translate>
+    </option>
     <option name="overrideFont" value="true" />
   </component>
 </application>
