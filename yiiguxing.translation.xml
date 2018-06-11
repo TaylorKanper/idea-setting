@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is not eligible for getting processed by all BeanPostProcessors" />
       <item value="网络类型" />
       <item value="protocol" />
       <item value="the result threshold, as described above" />
@@ -50,7 +51,6 @@
       <item value="性能" />
       <item value="时段" />
       <item value="单位" />
-      <item value="疏忙室分" />
     </histories>
   </component>
   <component name="Settings">
