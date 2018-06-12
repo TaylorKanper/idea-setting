@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="映射" />
+      <item value="对照" />
       <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="If you want an embedded database please put a supported one on the classpath." />
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
@@ -49,8 +51,6 @@
       <item value="ascription" />
       <item value="归属" />
       <item value="terminal" />
-      <item value="时长" />
-      <item value="感知" />
     </histories>
   </component>
   <component name="Settings">
