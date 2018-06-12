@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="If you want an embedded database please put a supported one on the classpath." />
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
       <item value="Multiple Spring Data modules found, entering strict repository configuration mode!" />
@@ -50,7 +51,6 @@
       <item value="terminal" />
       <item value="时长" />
       <item value="感知" />
-      <item value="硬件" />
     </histories>
   </component>
   <component name="Settings">
