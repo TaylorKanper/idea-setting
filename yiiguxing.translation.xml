@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If you want an embedded database please put a supported one on the classpath." />
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
       <item value="Multiple Spring Data modules found, entering strict repository configuration mode!" />
       <item value="not eligible for auto-proxying" />
@@ -50,7 +51,6 @@
       <item value="时长" />
       <item value="感知" />
       <item value="硬件" />
-      <item value="性能" />
     </histories>
   </component>
   <component name="Settings">
