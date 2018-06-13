@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specifies whether the parameter can accept multiple values by having multiple occurrences." />
       <item value="映射" />
       <item value="对照" />
       <item value="Cannot determine embedded database driver class for database type NONE" />
@@ -50,7 +51,6 @@
       <item value="Ascription" />
       <item value="ascription" />
       <item value="归属" />
-      <item value="terminal" />
     </histories>
   </component>
   <component name="Settings">
