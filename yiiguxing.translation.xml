@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identifies a type that the injector only instantiates once. Not inherited." />
       <item value="Only works if the source is a HadoopFsRelationProvider." />
       <item value="Loads input in as a `DataFrame`, for data sources that support multiple paths." />
       <item value="Specifies the input data source format" />
@@ -50,7 +51,6 @@
       <item value="durable" />
       <item value="Declare" />
       <item value="perform" />
-      <item value="permanent" />
     </histories>
   </component>
   <component name="Settings">
