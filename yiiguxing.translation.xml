@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="integral" />
       <item value="Division this expression by another expression" />
       <item value="Identifies a type that the injector only instantiates once. Not inherited." />
       <item value="Only works if the source is a HadoopFsRelationProvider." />
@@ -50,7 +51,6 @@
       <item value="true if we are declaring a durable queue (the queue will survive a server restart)" />
       <item value="true if we are declaring an exclusive queue (restricted to this connection)" />
       <item value="durable" />
-      <item value="Declare" />
     </histories>
   </component>
   <component name="Settings">
