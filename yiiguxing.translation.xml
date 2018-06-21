@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A closure in Scala" />
       <item value="随机" />
       <item value="Returns a sort expression based on the descending order of the column" />
       <item value="literal value" />
@@ -50,7 +51,6 @@
       <item value="PERSISTENT" />
       <item value="true if the server should consider messages * acknowledged once delivered; false if the server should expect * explicit acknowledgements" />
       <item value="Start a non-nolocal, non-exclusive consumer, with" />
-      <item value="other properties (construction arguments) for the queue" />
     </histories>
   </component>
   <component name="Settings">
