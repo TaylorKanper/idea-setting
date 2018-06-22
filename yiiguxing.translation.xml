@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="return type of UDF" />
+      <item value="Register a Scala closure of 0 arguments as user-defined function (UDF)." />
       <item value="A closure in Scala" />
       <item value="随机" />
       <item value="Returns a sort expression based on the descending order of the column" />
@@ -50,7 +51,6 @@
       <item value="true to acknowledge all messages up to and * including the supplied delivery tag; false to acknowledge just * the supplied delivery tag." />
       <item value="delivery Mode" />
       <item value="PERSISTENT" />
-      <item value="true if the server should consider messages * acknowledged once delivered; false if the server should expect * explicit acknowledgements" />
     </histories>
   </component>
   <component name="Settings">
