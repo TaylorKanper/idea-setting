@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="chgrp" />
+      <item value="expunge" />
       <item value="Minimum number of Hadoop Splits to generate" />
       <item value="return type of UDF" />
       <item value="Register a Scala closure of 0 arguments as user-defined function (UDF)." />
@@ -49,8 +51,6 @@
       <item value="true if we are declaring a durable queue" />
       <item value="Envelope" />
       <item value="the supplied delivery tag" />
-      <item value="true to acknowledge all messages up to and * including the supplied delivery tag; false to acknowledge just * the supplied delivery tag." />
-      <item value="delivery Mode" />
     </histories>
   </component>
   <component name="Settings">
