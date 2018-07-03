@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assumed" />
       <item value="chgrp" />
       <item value="expunge" />
       <item value="Minimum number of Hadoop Splits to generate" />
@@ -50,7 +51,6 @@
       <item value="prefetch Count" />
       <item value="true if we are declaring a durable queue" />
       <item value="Envelope" />
-      <item value="the supplied delivery tag" />
     </histories>
   </component>
   <component name="Settings">
