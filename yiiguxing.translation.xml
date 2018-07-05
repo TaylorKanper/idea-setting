@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Traversable Like" />
       <item value="When a Spark Streaming job recovers from checkpoint, this exception will be hit if a reference to an RDD not defined by the streaming job is used in DStream operations. For more information" />
       <item value="RDD transformations and actions are NOT invoked by the driver, but inside of other transformations; for example, rdd1.map(x =&gt; rdd2.values.count() * x) is invalid because the values transformation and count action cannot be performed inside of the rdd1.map transformation. For more information, see SPARK-5063." />
       <item value="the transformation function mapping elements * to some other domain `B`" />
@@ -50,7 +51,6 @@
       <item value="The following plugins are incompatible with the current IDE build: .ignore" />
       <item value="Managed memory leak detected" />
       <item value="Detected" />
-      <item value="deliver" />
     </histories>
   </component>
   <component name="Settings">
