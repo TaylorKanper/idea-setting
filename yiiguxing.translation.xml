@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="More formally" />
+      <item value="The maximum size of array to allocate." />
+      <item value="ensure Capacity" />
+      <item value="Trims the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance to be the * list's current size." />
+      <item value="Constructs an empty list with an initial capacity of ten." />
+      <item value="the initial capacity of the list" />
+      <item value="The size of the ArrayList (the number of elements it contains)." />
+      <item value="We * distinguish this from EMPTY_ELEMENTDATA to know how much to inflate when * first element is added." />
+      <item value="Shared empty array instance used for default sized empty instances." />
+      <item value="The array buffer into which the elements of the ArrayList are stored." />
+      <item value="Shared empty array instance used for empty instances." />
+      <item value="EMPTY ELEMENTDATA" />
+      <item value="Default initial capacity." />
       <item value="deallocated" />
       <item value="Decreases the reference count by {@code 1} and deallocates this object if the reference count reaches at" />
       <item value="mplement the methods of this class." />
@@ -38,19 +51,6 @@
       <item value="Multiple Spring Data modules found, entering strict repository configuration mode!" />
       <item value="not eligible for auto-proxying" />
       <item value="网络类型" />
-      <item value="protocol" />
-      <item value="the result threshold, as described above" />
-      <item value="the maximum number of elements to include in the * array." />
-      <item value="sort" />
-      <item value="分类" />
-      <item value="Sentiment" />
-      <item value="sample Rate Hertz" />
-      <item value="Specifies the input data source format." />
-      <item value="合并" />
-      <item value="Error creating login context using ticket cache: Unable to obtain Princpal Name for authentication ." />
-      <item value="overlapping" />
-      <item value="分析" />
-      <item value="If a partition key is provided it will override the key for the purpose of partitioning but will not be stored." />
     </histories>
   </component>
   <component name="Settings">
