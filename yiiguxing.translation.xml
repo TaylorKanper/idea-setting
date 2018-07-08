@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pushes an element onto the stack represented by this list." />
+      <item value="transient" />
+      <item value="Random Access" />
       <item value="More formally" />
       <item value="The maximum size of array to allocate." />
       <item value="ensure Capacity" />
@@ -48,9 +51,6 @@
       <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="If you want an embedded database please put a supported one on the classpath." />
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
-      <item value="Multiple Spring Data modules found, entering strict repository configuration mode!" />
-      <item value="not eligible for auto-proxying" />
-      <item value="网络类型" />
     </histories>
   </component>
   <component name="Settings">
