@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="times" />
       <item value="Pushes an element onto the stack represented by this list." />
       <item value="transient" />
       <item value="Random Access" />
@@ -50,7 +51,6 @@
       <item value="对照" />
       <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="If you want an embedded database please put a supported one on the classpath." />
-      <item value="is not eligible for getting processed by all BeanPostProcessors" />
     </histories>
   </component>
   <component name="Settings">
