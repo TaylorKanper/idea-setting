@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="统计分析" />
       <item value="景区" />
       <item value="times" />
       <item value="Pushes an element onto the stack represented by this list." />
@@ -50,7 +51,6 @@
       <item value="Specifies whether the parameter can accept multiple values by having multiple occurrences." />
       <item value="映射" />
       <item value="对照" />
-      <item value="Cannot determine embedded database driver class for database type NONE" />
     </histories>
   </component>
   <component name="Settings">
