@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="numeric field" />
+      <item value="字段" />
       <item value="统计分析" />
       <item value="景区" />
       <item value="times" />
@@ -49,8 +51,6 @@
       <item value="duration" />
       <item value="间隔" />
       <item value="Specifies whether the parameter can accept multiple values by having multiple occurrences." />
-      <item value="映射" />
-      <item value="对照" />
     </histories>
   </component>
   <component name="Settings">
