@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Build a step that processes items in chunks with the size provided" />
       <item value="numeric field" />
       <item value="字段" />
       <item value="统计分析" />
@@ -50,7 +51,6 @@
       <item value="Specifies the input data source format" />
       <item value="duration" />
       <item value="间隔" />
-      <item value="Specifies whether the parameter can accept multiple values by having multiple occurrences." />
     </histories>
   </component>
   <component name="Settings">
