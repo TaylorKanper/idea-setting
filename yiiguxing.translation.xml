@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time in milliseconds between successive task executions." />
+      <item value="delay in milliseconds before task is to be executed." />
       <item value="separation" />
       <item value="分割" />
       <item value="之前的" />
@@ -49,8 +51,6 @@
       <item value="argument 2 requires integral type" />
       <item value="integral" />
       <item value="Division this expression by another expression" />
-      <item value="Identifies a type that the injector only instantiates once. Not inherited." />
-      <item value="Only works if the source is a HadoopFsRelationProvider." />
     </histories>
   </component>
   <component name="Settings">
