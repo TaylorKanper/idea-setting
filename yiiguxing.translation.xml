@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="之前的" />
       <item value="Get the millis of day property which provides access to advanced functionality." />
       <item value="Build a step that processes items in chunks with the size provided" />
       <item value="numeric field" />
@@ -50,7 +51,6 @@
       <item value="Only works if the source is a HadoopFsRelationProvider." />
       <item value="Loads input in as a `DataFrame`, for data sources that support multiple paths." />
       <item value="Specifies the input data source format" />
-      <item value="duration" />
     </histories>
   </component>
   <component name="Settings">
