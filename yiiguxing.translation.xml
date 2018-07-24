@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="奇数" />
+      <item value="偶数" />
       <item value="time in milliseconds between successive task executions." />
       <item value="delay in milliseconds before task is to be executed." />
       <item value="separation" />
@@ -49,8 +51,6 @@
       <item value="Returns a sort expression based on the descending order of the column" />
       <item value="literal value" />
       <item value="argument 2 requires integral type" />
-      <item value="integral" />
-      <item value="Division this expression by another expression" />
     </histories>
   </component>
   <component name="Settings">
