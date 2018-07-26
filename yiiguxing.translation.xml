@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enter Local Active Mode" />
+      <item value="enter Local Passive Mode" />
+      <item value="Set how long to wait for control keep-alive message replies." />
+      <item value="the wait (in secs) between keepalive messages. Zero (or less) disables." />
+      <item value="Set the time to wait between sending control connection keepalive messages * when processing file upload or download." />
       <item value="奇数" />
       <item value="偶数" />
       <item value="time in milliseconds between successive task executions." />
@@ -46,11 +51,6 @@
       <item value="Minimum number of Hadoop Splits to generate" />
       <item value="return type of UDF" />
       <item value="Register a Scala closure of 0 arguments as user-defined function (UDF)." />
-      <item value="A closure in Scala" />
-      <item value="随机" />
-      <item value="Returns a sort expression based on the descending order of the column" />
-      <item value="literal value" />
-      <item value="argument 2 requires integral type" />
     </histories>
   </component>
   <component name="Settings">
