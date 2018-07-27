@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Associates the specified value with the specified key in this map." />
       <item value="enter Local Active Mode" />
       <item value="enter Local Passive Mode" />
       <item value="Set how long to wait for control keep-alive message replies." />
@@ -50,7 +51,6 @@
       <item value="expunge" />
       <item value="Minimum number of Hadoop Splits to generate" />
       <item value="return type of UDF" />
-      <item value="Register a Scala closure of 0 arguments as user-defined function (UDF)." />
     </histories>
   </component>
   <component name="Settings">
