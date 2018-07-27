@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separation" />
       <item value="The number of key-value mappings contained in this map." />
       <item value="Associates the specified value with the specified key in this map." />
       <item value="enter Local Active Mode" />
@@ -12,7 +13,6 @@
       <item value="偶数" />
       <item value="time in milliseconds between successive task executions." />
       <item value="delay in milliseconds before task is to be executed." />
-      <item value="separation" />
       <item value="分割" />
       <item value="之前的" />
       <item value="Get the millis of day property which provides access to advanced functionality." />
