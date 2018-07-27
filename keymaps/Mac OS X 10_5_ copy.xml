@@ -2,6 +2,10 @@
   <action id="FileChooser.NewFile">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="TypeHierarchy.Class">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
