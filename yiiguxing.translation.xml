@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The number of key-value mappings contained in this map." />
       <item value="Associates the specified value with the specified key in this map." />
       <item value="enter Local Active Mode" />
       <item value="enter Local Passive Mode" />
@@ -50,7 +51,6 @@
       <item value="chgrp" />
       <item value="expunge" />
       <item value="Minimum number of Hadoop Splits to generate" />
-      <item value="return type of UDF" />
     </histories>
   </component>
   <component name="Settings">
