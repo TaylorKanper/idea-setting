@@ -59,6 +59,7 @@
         <option name="primaryLanguage" value="CHINESE" />
       </google-translate>
     </option>
+    <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
   </component>
 </application>
