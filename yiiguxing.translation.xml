@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="作业" />
+      <item value="定时器" />
+      <item value="别名" />
       <item value="separation" />
       <item value="The number of key-value mappings contained in this map." />
       <item value="Associates the specified value with the specified key in this map." />
@@ -48,9 +51,6 @@
       <item value="RDD transformations and actions are NOT invoked by the driver, but inside of other transformations; for example, rdd1.map(x =&gt; rdd2.values.count() * x) is invalid because the values transformation and count action cannot be performed inside of the rdd1.map transformation. For more information, see SPARK-5063." />
       <item value="the transformation function mapping elements * to some other domain `B`" />
       <item value="assumed" />
-      <item value="chgrp" />
-      <item value="expunge" />
-      <item value="Minimum number of Hadoop Splits to generate" />
     </histories>
   </component>
   <component name="Settings">
