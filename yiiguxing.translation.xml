@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jun" />
       <item value="Returns a copy of this datetime with the era field updated." />
       <item value="Returns a copy of this datetime with a different chronology." />
       <item value="Returns a copy of this datetime with the value of the specified field increased." />
@@ -50,7 +51,6 @@
       <item value="Decreases the reference count by {@code 1} and deallocates this object if the reference count reaches at" />
       <item value="mplement the methods of this class." />
       <item value="is the root of the class hierarchy." />
-      <item value="Adds a number of elements provided by a traversable object * and returns a new collection with the added elements." />
     </histories>
   </component>
   <component name="Settings">
