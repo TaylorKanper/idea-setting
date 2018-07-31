@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a copy of this datetime with the era field updated." />
+      <item value="Returns a copy of this datetime with a different chronology." />
+      <item value="Returns a copy of this datetime with the value of the specified field increased." />
       <item value="The class to which this annotation is applied is immutable." />
       <item value="ftpClient.retrieveFileStream(ftpInfo.getRemoteDir() + File.separator + fileName)" />
       <item value="作业" />
@@ -48,9 +51,6 @@
       <item value="mplement the methods of this class." />
       <item value="is the root of the class hierarchy." />
       <item value="Adds a number of elements provided by a traversable object * and returns a new collection with the added elements." />
-      <item value="Traversable Like" />
-      <item value="When a Spark Streaming job recovers from checkpoint, this exception will be hit if a reference to an RDD not defined by the streaming job is used in DStream operations. For more information" />
-      <item value="RDD transformations and actions are NOT invoked by the driver, but inside of other transformations; for example, rdd1.map(x =&gt; rdd2.values.count() * x) is invalid because the values transformation and count action cannot be performed inside of the rdd1.map transformation. For more information, see SPARK-5063." />
     </histories>
   </component>
   <component name="Settings">
