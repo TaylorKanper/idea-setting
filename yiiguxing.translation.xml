@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transforms a coordinate from longitude/latitude to a different projection." />
       <item value="Repository" />
       <item value="Qualifier" />
       <item value="Primary" />
@@ -50,7 +51,6 @@
       <item value="Shared empty array instance used for default sized empty instances." />
       <item value="The array buffer into which the elements of the ArrayList are stored." />
       <item value="Shared empty array instance used for empty instances." />
-      <item value="EMPTY ELEMENTDATA" />
     </histories>
   </component>
   <component name="Settings">
