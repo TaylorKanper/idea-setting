@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalidates an object from the pool." />
       <item value="borrow" />
       <item value="jun" />
       <item value="Returns a copy of this datetime with the era field updated." />
@@ -50,7 +51,6 @@
       <item value="Default initial capacity." />
       <item value="deallocated" />
       <item value="Decreases the reference count by {@code 1} and deallocates this object if the reference count reaches at" />
-      <item value="mplement the methods of this class." />
     </histories>
   </component>
   <component name="Settings">
