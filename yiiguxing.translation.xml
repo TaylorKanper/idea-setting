@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Repository" />
+      <item value="Qualifier" />
+      <item value="Primary" />
       <item value="Invalidates an object from the pool." />
       <item value="borrow" />
       <item value="jun" />
@@ -48,9 +51,6 @@
       <item value="The array buffer into which the elements of the ArrayList are stored." />
       <item value="Shared empty array instance used for empty instances." />
       <item value="EMPTY ELEMENTDATA" />
-      <item value="Default initial capacity." />
-      <item value="deallocated" />
-      <item value="Decreases the reference count by {@code 1} and deallocates this object if the reference count reaches at" />
     </histories>
   </component>
   <component name="Settings">
