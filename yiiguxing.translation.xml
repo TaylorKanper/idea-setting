@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fusion" />
+      <item value="deploy" />
       <item value="strategy" />
       <item value="Transforms a coordinate from longitude/latitude to a different projection." />
       <item value="Repository" />
@@ -49,8 +51,6 @@
       <item value="the initial capacity of the list" />
       <item value="The size of the ArrayList (the number of elements it contains)." />
       <item value="We * distinguish this from EMPTY_ELEMENTDATA to know how much to inflate when * first element is added." />
-      <item value="Shared empty array instance used for default sized empty instances." />
-      <item value="The array buffer into which the elements of the ArrayList are stored." />
     </histories>
   </component>
   <component name="Settings">
