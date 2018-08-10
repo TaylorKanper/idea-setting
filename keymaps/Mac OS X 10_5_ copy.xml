@@ -1,7 +1,12 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="DBNavigator.Actions.SourceEditor.Save" />
   <action id="FileChooser.NewFile">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SaveAll" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
