@@ -6,6 +6,7 @@
       <mapping pattern="banner" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Client2properties" type="PLAIN_TEXT" />
+      <mapping ext="page" type="PLAIN_TEXT" />
       <mapping ext="application" type="PLAIN_TEXT" />
       <mapping ext="shell" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
