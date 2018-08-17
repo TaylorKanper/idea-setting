@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Accrels" />
       <item value="主卡" />
       <item value="Band" />
       <item value="Fusion" />
@@ -50,7 +51,6 @@
       <item value="ensure Capacity" />
       <item value="Trims the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance to be the * list's current size." />
       <item value="Constructs an empty list with an initial capacity of ten." />
-      <item value="the initial capacity of the list" />
     </histories>
   </component>
   <component name="Settings">
