@@ -10,6 +10,7 @@
       <mapping ext="page" type="PLAIN_TEXT" />
       <mapping ext="application" type="PLAIN_TEXT" />
       <mapping ext="shell" type="PLAIN_TEXT" />
+      <mapping ext="wvm" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
