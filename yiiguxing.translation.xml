@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generator" />
+      <item value="get Id Generator" />
       <item value="Region" />
       <item value="Accrels" />
       <item value="主卡" />
@@ -49,13 +51,11 @@
       <item value="Random Access" />
       <item value="More formally" />
       <item value="The maximum size of array to allocate." />
-      <item value="ensure Capacity" />
-      <item value="Trims the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance to be the * list's current size." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
