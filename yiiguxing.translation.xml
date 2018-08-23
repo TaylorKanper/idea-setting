@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Region" />
       <item value="Accrels" />
       <item value="主卡" />
       <item value="Band" />
@@ -50,8 +51,13 @@
       <item value="The maximum size of array to allocate." />
       <item value="ensure Capacity" />
       <item value="Trims the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance to be the * list's current size." />
-      <item value="Constructs an empty list with an initial capacity of ten." />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
