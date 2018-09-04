@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ocrm I Res Sim CCSV get Imsi From Res" />
       <item value="解密" />
       <item value="LLtrDbFMsf4=" />
       <item value="specification" />
@@ -50,12 +51,11 @@
       <item value="景区" />
       <item value="times" />
       <item value="Pushes an element onto the stack represented by this list." />
-      <item value="transient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
