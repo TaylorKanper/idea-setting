@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remote Acc Net Work" />
       <item value="spanned" />
       <item value="Indiv" />
       <item value="黑名单" />
@@ -50,12 +51,11 @@
       <item value="之前的" />
       <item value="Get the millis of day property which provides access to advanced functionality." />
       <item value="Build a step that processes items in chunks with the size provided" />
-      <item value="numeric field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
