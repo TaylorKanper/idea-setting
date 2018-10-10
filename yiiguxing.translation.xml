@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="成本" />
       <item value="tabindex" />
       <item value="Use the returned instance for further operations as the save operation might have changed the * entity instance completely." />
       <item value="My SQL Integrity Constraint Violation Exception" />
@@ -50,11 +51,10 @@
       <item value="Returns a copy of this datetime with a different chronology." />
       <item value="Returns a copy of this datetime with the value of the specified field increased." />
       <item value="The class to which this annotation is applied is immutable." />
-      <item value="ftpClient.retrieveFileStream(ftpInfo.getRemoteDir() + File.separator + fileName)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="25" />
         <entry key="ENGLISH" value="25" />
       </map>
     </option>
