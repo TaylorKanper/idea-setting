@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reduce" />
+      <item value="减少" />
       <item value="退货" />
       <item value="ORPHAN" />
       <item value="detach" />
@@ -49,12 +51,10 @@
       <item value="Primary" />
       <item value="Invalidates an object from the pool." />
       <item value="borrow" />
-      <item value="jun" />
-      <item value="Returns a copy of this datetime with the era field updated." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
+        <entry key="CHINESE" value="27" />
         <entry key="ENGLISH" value="27" />
       </map>
     </option>
