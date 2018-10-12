@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="退货" />
       <item value="ORPHAN" />
       <item value="detach" />
       <item value="成本" />
@@ -50,7 +51,6 @@
       <item value="borrow" />
       <item value="jun" />
       <item value="Returns a copy of this datetime with the era field updated." />
-      <item value="Returns a copy of this datetime with a different chronology." />
     </histories>
     <option name="languageScores">
       <map>
