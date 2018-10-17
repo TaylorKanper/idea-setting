@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Arrears" />
       <item value="reduce" />
       <item value="减少" />
       <item value="退货" />
@@ -50,12 +51,11 @@
       <item value="Qualifier" />
       <item value="Primary" />
       <item value="Invalidates an object from the pool." />
-      <item value="borrow" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
