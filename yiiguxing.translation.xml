@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="短信评价参数" />
       <item value="参数类别" />
       <item value="营业厅" />
       <item value="I Acc Arrears CSV" />
@@ -50,12 +51,11 @@
       <item value="deploy" />
       <item value="strategy" />
       <item value="Transforms a coordinate from longitude/latitude to a different projection." />
-      <item value="Repository" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
