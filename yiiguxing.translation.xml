@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subscribe" />
+      <item value="订购" />
       <item value="Satisfy" />
       <item value="assess" />
       <item value="附加" />
@@ -36,7 +38,6 @@
       <item value="所有购买商品" />
       <item value="积分" />
       <item value="discount" />
-      <item value="订购" />
       <item value="Concatenation" />
       <item value="remote Acc Net Work" />
       <item value="spanned" />
@@ -50,11 +51,10 @@
       <item value="specification" />
       <item value="Generator" />
       <item value="get Id Generator" />
-      <item value="Region" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
+        <entry key="CHINESE" value="33" />
         <entry key="ENGLISH" value="33" />
       </map>
     </option>
