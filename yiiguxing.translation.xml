@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEPOSITE" />
       <item value="Ass" />
       <item value="subscribe" />
       <item value="订购" />
@@ -50,12 +51,12 @@
       <item value="解密" />
       <item value="LLtrDbFMsf4=" />
       <item value="specification" />
-      <item value="Generator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
+        <entry key="CHINESE" value="34" />
         <entry key="ENGLISH" value="34" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
