@@ -10,5 +10,7 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
+    <entry key="BSP.experimental.feature.enabled" value="false" />
+    <entry key="BSP.system.in.process" value="true" />
   </component>
 </application>
