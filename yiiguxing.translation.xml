@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assort" />
       <item value="充值" />
       <item value="Pay Ment" />
       <item value="虚拟流量购买通知" />
@@ -50,11 +51,10 @@
       <item value="Indiv" />
       <item value="黑名单" />
       <item value="常量" />
-      <item value="Busi Inter Srv Constans" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
+        <entry key="CHINESE" value="39" />
         <entry key="ENGLISH" value="39" />
         <entry key="SPANISH" value="1" />
       </map>
