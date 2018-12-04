@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identity" />
+      <item value="身份信息验证" />
       <item value="好友" />
       <item value="特服号码" />
       <item value="异地销户" />
@@ -49,12 +51,10 @@
       <item value="所有购买商品" />
       <item value="积分" />
       <item value="discount" />
-      <item value="Concatenation" />
-      <item value="remote Acc Net Work" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
+        <entry key="CHINESE" value="40" />
         <entry key="ENGLISH" value="40" />
         <entry key="SPANISH" value="1" />
       </map>
