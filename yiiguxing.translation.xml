@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="好友" />
       <item value="特服号码" />
       <item value="异地销户" />
       <item value="异地" />
@@ -50,7 +51,6 @@
       <item value="discount" />
       <item value="Concatenation" />
       <item value="remote Acc Net Work" />
-      <item value="spanned" />
     </histories>
     <option name="languageScores">
       <map>
