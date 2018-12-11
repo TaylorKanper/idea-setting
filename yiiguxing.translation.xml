@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="th" />
       <item value="Identity" />
       <item value="身份信息验证" />
       <item value="好友" />
@@ -50,7 +51,6 @@
       <item value="分类" />
       <item value="所有购买商品" />
       <item value="积分" />
-      <item value="discount" />
     </histories>
     <option name="languageScores">
       <map>
