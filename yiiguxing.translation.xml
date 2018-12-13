@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corba" />
       <item value="同步" />
       <item value="业务办理资格" />
       <item value="th" />
@@ -50,11 +51,10 @@
       <item value="渠道" />
       <item value="进价" />
       <item value="类别" />
-      <item value="分类" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
+        <entry key="CHINESE" value="41" />
         <entry key="ENGLISH" value="41" />
         <entry key="SPANISH" value="1" />
       </map>
