@@ -8,7 +8,6 @@
       <mapping pattern="kangpeng3_20181105_0001.sql" type="PLAIN_TEXT" />
       <mapping pattern="Client2properties" type="PLAIN_TEXT" />
       <mapping ext="bo" type="PLAIN_TEXT" />
-      <mapping ext="adoc" type="PLAIN_TEXT" />
       <mapping ext="page" type="PLAIN_TEXT" />
       <mapping ext="jasper" type="PLAIN_TEXT" />
       <mapping ext="application" type="PLAIN_TEXT" />
