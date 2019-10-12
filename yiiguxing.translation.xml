@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hills" />
       <item value="contextual state about the validation process" />
       <item value="Additional consumer-specific properties used to configure the client." />
       <item value="短信指令" />
@@ -50,7 +51,6 @@
       <item value="describe" />
       <item value="描述" />
       <item value="交易额" />
-      <item value="供应商" />
     </histories>
     <option name="languageScores">
       <map>
