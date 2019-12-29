@@ -54,10 +54,7 @@
           <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.0/scala-library-2.11.0.jar" />
         </compiler-classpath>
       </properties>
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.0/scala-reflect-2.11.0.jar!/" />
-        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.0/scala-library-2.11.0.jar!/" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC>
         <root url="http://www.scala-lang.org/api/2.11.0/" />
       </JAVADOC>
